@@ -1,0 +1,5 @@
+Go to "C:\NOVA_AI\model" Folder and
+
+Double click "Double click to download LLM" bat file
+
+This will auto download "Qwen2.5-7B-Instruct-Q4_K_M.gguf" LLM in that folder.

@@ -1,0 +1,16 @@
+NOVA Diagnostic 
+13-07-2026 18:27:42.69 
+Root: C:\NOVA_AI\ 
+
+Microsoft Windows [Version 10.0.26200.8655]
+PASS: llama-server.exe 
+version: 3462 (bf5a81df)
+built with MSVC 19.29.30154.0 for x64
+PASS: CPU 
+PASS: microsoft_Phi-4-mini-instruct-Q4_K_L.gguf  
+PASS: microsoft_Phi-4-mini-instruct-Q4_K_M.gguf  
+PASS: microsoft_Phi-4-mini-instruct-Q8_0.gguf  
+PASS: Qwen2.5-7B-Instruct-Q4_K_M.gguf  
+PASS: port free 
+PASS: index.html 
+PASS: curl 

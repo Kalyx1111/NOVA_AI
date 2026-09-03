@@ -1,0 +1,15 @@
+NOVA AI Diagnostic 
+Date: 19-07-2026 Time:  9:14:59.11 
+Root: C:\NOVA_AI\ 
+
+Microsoft Windows [Version 10.0.26200.8875]
+PASS: llama-server.exe 
+version: 3462 (bf5a81df)
+built with MSVC 19.29.30154.0 for x64
+PASS: CPU 
+PASS model: Qwen2.5-7B-Instruct-Q4_K_M.gguf  
+PASS: port free 
+PASS: index.html 
+PASS: chart-studio.html 
+PASS: curl 
+Diagnostic complete: 19-07-2026  9:14:59.37 

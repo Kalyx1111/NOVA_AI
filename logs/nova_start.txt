@@ -1,0 +1,12 @@
+NOVA AI Start: 03-09-2026 18:43:06.58 
+Root: C:\Users\shubh\Desktop\NOVA_AI\ 
+version: 3462 (bf5a81df)
+built with MSVC 19.29.30154.0 for x64
+Engine OK 
+Model: C:\Users\shubh\Desktop\NOVA_AI\model\Qwen2.5-7B-Instruct-Q4_K_M.gguf 
+Threads: 4 
+[4] Starting server 
+Server launched 
+Server ready 
+Browser opened 
+RUNNING 
